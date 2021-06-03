@@ -10,6 +10,6 @@ function setup() {
 }
 
 function draw() {
-  background(r,g,b);
+  background(red);
 }
 
